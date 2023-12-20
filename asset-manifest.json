@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/medicare1/static/css/main.6d3f9747.css",
-    "main.js": "/medicare1/static/js/main.d86df275.js",
+    "main.js": "/medicare1/static/js/main.bbfdf1fa.js",
     "static/js/787.e1b9292f.chunk.js": "/medicare1/static/js/787.e1b9292f.chunk.js",
     "static/media/d1.png": "/medicare1/static/media/d1.0cbcaf2fb05f7baab315.png",
     "static/media/d2.jpg": "/medicare1/static/media/d2.9009c6f06da26a050cc2.jpg",
@@ -16,11 +16,11 @@
     "static/media/faqImg.webp": "/medicare1/static/media/faqImg.cdff722f66d90949c0d3.webp",
     "index.html": "/medicare1/index.html",
     "main.6d3f9747.css.map": "/medicare1/static/css/main.6d3f9747.css.map",
-    "main.d86df275.js.map": "/medicare1/static/js/main.d86df275.js.map",
+    "main.bbfdf1fa.js.map": "/medicare1/static/js/main.bbfdf1fa.js.map",
     "787.e1b9292f.chunk.js.map": "/medicare1/static/js/787.e1b9292f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d3f9747.css",
-    "static/js/main.d86df275.js"
+    "static/js/main.bbfdf1fa.js"
   ]
 }
