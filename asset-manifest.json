@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/medicare1/static/css/main.6d3f9747.css",
+    "main.js": "/medicare1/static/js/main.d86df275.js",
+    "static/js/787.e1b9292f.chunk.js": "/medicare1/static/js/787.e1b9292f.chunk.js",
+    "static/media/d1.png": "/medicare1/static/media/d1.0cbcaf2fb05f7baab315.png",
+    "static/media/d2.jpg": "/medicare1/static/media/d2.9009c6f06da26a050cc2.jpg",
+    "static/media/bg2.jpeg": "/medicare1/static/media/bg2.0c8a493ea9836bd59d7c.jpeg",
+    "static/media/d3.jpg": "/medicare1/static/media/d3.77abdaa7f2be0c1fc9b3.jpg",
+    "static/media/icon1.jpg": "/medicare1/static/media/icon1.9a2651bd50a913ebd7f6.jpg",
+    "static/media/icon3.webp": "/medicare1/static/media/icon3.f5c48f75283e83ac3770.webp",
+    "static/media/doctor1.webp": "/medicare1/static/media/doctor1.d5bd9ba9b583be4e066a.webp",
+    "static/media/d6.webp": "/medicare1/static/media/d6.74b9b9d4c25818208c95.webp",
+    "static/media/d4.jpeg": "/medicare1/static/media/d4.dc015136642f2f7223c7.jpeg",
+    "static/media/icon2.jpeg": "/medicare1/static/media/icon2.aa24a1219a6312ca5af7.jpeg",
+    "static/media/faqImg.webp": "/medicare1/static/media/faqImg.cdff722f66d90949c0d3.webp",
+    "index.html": "/medicare1/index.html",
+    "main.6d3f9747.css.map": "/medicare1/static/css/main.6d3f9747.css.map",
+    "main.d86df275.js.map": "/medicare1/static/js/main.d86df275.js.map",
+    "787.e1b9292f.chunk.js.map": "/medicare1/static/js/787.e1b9292f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d3f9747.css",
+    "static/js/main.d86df275.js"
+  ]
+}
